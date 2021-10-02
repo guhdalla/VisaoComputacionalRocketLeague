@@ -1,7 +1,3 @@
-# Visao Com
-
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
-
 # Visao Computacional com Rocket League
 
 **nome dos alunos:** 
@@ -30,4 +26,4 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
 
 ### Referências 
 
-* [mastering-markdown](https://github.com/arnaldojr)
+* [Professor Arnaldo](https://github.com/arnaldojr)
